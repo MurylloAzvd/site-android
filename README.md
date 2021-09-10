@@ -1,2 +1,2 @@
 # site-android
-Site desenvolvido com o apoio do canal do youtube - Curso em Vídeo
+Site responsivo desenvolvido com o apoio do canal do youtube - Curso em Vídeo
